@@ -1,4 +1,4 @@
-# 🧪 InstantBrew
+# InstantBrew
 
 [![Fabric](https://img.shields.io/badge/Fabric-26.2-brightgreen)](https://fabricmc.net/)
 [![Mod Menu](https://img.shields.io/badge/Mod%20Menu-Supported-blue)](https://modrinth.com/mod/modmenu)
@@ -8,7 +8,7 @@
 
 ---
 
-## ✨ Features
+## Features
 
 - **Configurable Brew Time** – Set the brew duration from **1 tick** (instant) to **400 ticks** (vanilla, 20 seconds).
 - **In‑Game Config Screen** – Powered by **Cloth Config** and integrated with **Mod Menu**.
@@ -17,7 +17,7 @@
 
 ---
 
-## 📥 Installation
+## Installation
 
 1. Download the latest `.jar` from the [Releases](https://github.com/artm-stack/instantbrew/releases) page.
 2. Place the `.jar` file in your `mods` folder.
@@ -29,7 +29,7 @@
 
 ---
 
-## ⚙️ Configuration
+## Configuration
 
 ### In‑Game (Mod Menu)
 1. Open the **Mods** menu from the main screen.
@@ -54,7 +54,7 @@ The config is stored at `config/instantbrew.json`. You can edit it manually:
 
 ---
 
-## 🛠️ Building from Source
+## Building from Source
 
 1. Clone the repository:
 
