@@ -1,0 +1,34 @@
+{
+	"schemaVersion": 1,
+	"id": "instantbrew",
+	"version": "${version}",
+	"name": "InstantBrew",
+	"description": "Instant Brewing Mod",
+	"authors": [
+		"ArtM_"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/instantbrew/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"artm.instantbrew.InstantBrew"
+		],
+		"modmenu": [
+			"artm.instantbrew.client.ModMenuIntegration"
+		]
+	},
+	"mixins": [
+		"instantbrew.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.3",
+		"minecraft": "~26.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}
