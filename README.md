@@ -82,7 +82,7 @@ The config is stored at `config/instantbrew.json`. You can edit it manually:
 | **Java**             | >= 25     |
 | **Fabric API**       | Latest    |
 | **Mod Menu**         | *(optional)* |
-| **Cloth Config API** | *(bundled)* |
+| **Cloth Config API** | *(required)* |
 
 ---
 
